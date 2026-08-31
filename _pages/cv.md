@@ -39,12 +39,6 @@ Skills
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-In detail:
-
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (ArXiv, 2025) - first author
   * Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
 * **On the Perception Bottleneck of VLMs for Chart Understanding** (ArXiv, 2025) - first author
